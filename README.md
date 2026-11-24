@@ -1,6 +1,6 @@
 # Plotiwa for Mac and Windows
 
-The desktop apps for Plotiwa, the workspace for print and signage businesses.
+The Plotiwa desktop apps: downloads for Mac and Windows.
 
 **Download:** the Mac app and the Windows installer are on the
 [latest release](../../releases/latest).
